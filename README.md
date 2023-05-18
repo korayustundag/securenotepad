@@ -43,6 +43,18 @@ If you prefer to build Secure Notepad from source, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. [More information](CONTRIBUTING.md)
 
+## Disclaimer
+
+**IMPORTANT: Please read this disclaimer carefully before using Secure Notepad.**
+
+Secure Notepad is a software application designed to encrypt and secure text documents. It utilizes strong encryption algorithms to protect your data. However, it is important to understand the limitations and responsibilities associated with using this application.
+
+### Data Encryption and Password Protection
+
+Secure Notepad encrypts your text documents using AES standards with a password of your choice. The encryption process is designed to provide a high level of security and ensure that only users with the correct password can access the decrypted data.
+
+**Disclaimer:** If you forget or lose your password, it will not be possible to recover or decrypt your data. The encryption is designed in such a way that even the developers of Secure Notepad cannot retrieve or reset your password or access your encrypted data. It is essential to keep your password safe and secure. We highly recommend choosing a strong and memorable password and storing it in a secure location.
+
 ## License
 
 Secure Notepad is released under the GPL-3.0 License. See [LICENSE](LICENSE) for more information.
